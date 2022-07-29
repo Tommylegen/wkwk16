@@ -12,8 +12,8 @@ let esce = `
 Hai ${ye} Lagi Nyari Sc Ya? 
 
 
-_*Maaf ga open source code kalau mau coding sendiri!*_`
-conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
+_*Maaf ga open source kalau mau coding sendiri!*_`
+conn.sendBut(m.chat, esce, wm3, 'Okeh', 'okeh', m) 
 }
 handler.help = ['sc', 'sourcecode']
 handler.tags = ['info']
